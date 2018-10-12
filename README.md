@@ -1,5 +1,6 @@
-# FreeEducation
+# FreeEducation 
 
+### Open Educational Resources (OER)
 ### Free educational platform for educators, parents and students.
 ##### Some tools and features:
 
@@ -23,7 +24,8 @@ The main goal is to make the platform 100% decentralized, so the platform
 never have their content lost or taken out of thin air.
 
 
-
+# Educação livre 
+### Recursos Educacionais Abertos (REA)
 ### Plataforma educacional gratuita para educadores, pais e alunos.
 ##### Algumas ferramentas e funcionalidades:
 
