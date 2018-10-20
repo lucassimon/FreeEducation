@@ -45,5 +45,5 @@ Essas são só algumas ideias iniciais, o intuito principal é criar uma comunid
 voltada para Educadores, pais e alunos, para estimular e dar ferramentas para que as pessoas possam ter acesso
 à conteúdos educacionais de qualidade.
 
-A meta principal é tornar a plataforma 100% descentralizada, para que a plataforma 
-nunca tenham seu conteúdo perdido ou tirado do ar. 
+# A meta é tornar a plataforma 100% descentralizada, para que
+# nunca tenha seu conteúdo perdido ou tirado do ar.
