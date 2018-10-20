@@ -23,6 +23,7 @@ to quality educational content.
 The main goal is to make the platform 100% decentralized, so the platform
 never have their content lost or taken out of thin air.
 
+# The goal is to make the platform 100% decentralized so that it never has its content lost or taken off the air.
 
 # Educação livre 
 ### Recursos Educacionais Abertos (REA)
@@ -45,5 +46,4 @@ Essas são só algumas ideias iniciais, o intuito principal é criar uma comunid
 voltada para Educadores, pais e alunos, para estimular e dar ferramentas para que as pessoas possam ter acesso
 à conteúdos educacionais de qualidade.
 
-# A meta é tornar a plataforma 100% descentralizada, para que
-# nunca tenha seu conteúdo perdido ou tirado do ar.
+# A meta é tornar a plataforma 100% descentralizada, para que nunca tenha seu conteúdo perdido ou tirado do ar.
