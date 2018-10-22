@@ -1,4 +1,4 @@
-# Educação livre 
+# Plataforma Educacioinal Livre e Descentralizada
 ### Plataforma educacional gratuita para educadores, pais e alunos.
 ##### Algumas ferramentas e funcionalidades:
 
@@ -22,8 +22,7 @@ voltada para Educadores, pais e alunos, para estimular e dar ferramentas para qu
 
 
 
-# FreeEducation 
-
+# Free and Decentralized Educational Platform
 ### Free educational platform for educators, parents and students.
 ##### Some tools and features:
 
