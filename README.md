@@ -1,4 +1,4 @@
-# Plataforma Educacioinal Livre e Descentralizada
+# Plataforma Educacional Livre e Descentralizada
 ### Plataforma educacional gratuita para educadores, pais e alunos.
 ##### Algumas ferramentas e funcionalidades:
 
