@@ -1,6 +1,29 @@
+# Educação livre 
+### Plataforma educacional gratuita para educadores, pais e alunos.
+##### Algumas ferramentas e funcionalidades:
+
+1 - Os educadores podem criar seu próprio conteúdo ou aulas (Atividades, provas, vídeo aulas, etc)
+
+2 - Educadores podem copiar e usar conteúdos de outros educadores para criar suas aulas.
+
+3 - Educadores podem imprimir suas atividades criadas em pdf para usar no mundo real.
+
+4 - Educadores podem criar salas de aula virtuais e adicionar e acompanhar desempenho dos alunos.
+
+5 - Todo o conteúdo criado dentro da plataforma é livre e aberto, pode ser usado por alunos ou outros educadores.
+
+6 - Educadores, alunos, atividades, provas, etc.. receberam um sistema de notas (como usuários do app Uber)
+
+Essas são só algumas ideias iniciais, o intuito principal é criar uma comunidade online gratuita,
+voltada para Educadores, pais e alunos, para estimular e dar ferramentas para que as pessoas possam ter acesso
+à conteúdos educacionais de qualidade.
+
+# A meta é tornar a plataforma 100% descentralizada, para que nunca tenha seu conteúdo perdido ou tirado do ar.
+
+
+
 # FreeEducation 
 
-### Open Educational Resources (OER)
 ### Free educational platform for educators, parents and students.
 ##### Some tools and features:
 
@@ -24,26 +47,3 @@ The main goal is to make the platform 100% decentralized, so the platform
 never have their content lost or taken out of thin air.
 
 # The goal is to make the platform 100% decentralized so that it never has its content lost or taken off the air.
-
-# Educação livre 
-### Recursos Educacionais Abertos (REA)
-### Plataforma educacional gratuita para educadores, pais e alunos.
-##### Algumas ferramentas e funcionalidades:
-
-1 - Os educadores podem criar seu próprio conteúdo ou aulas (Atividades, provas, vídeo aulas, etc)
-
-2 - Educadores podem copiar e usar conteúdos de outros educadores para criar suas aulas.
-
-3 - Educadores podem imprimir suas atividades criadas em pdf para usar no mundo real.
-
-4 - Educadores podem criar salas de aula virtuais e adicionar e acompanhar desempenho dos alunos.
-
-5 - Todo o conteúdo criado dentro da plataforma é livre e aberto, pode ser usado por alunos ou outros educadores.
-
-6 - Educadores, alunos, atividades, provas, etc.. receberam um sistema de notas (como usuários do app Uber)
-
-Essas são só algumas ideias iniciais, o intuito principal é criar uma comunidade online gratuita,
-voltada para Educadores, pais e alunos, para estimular e dar ferramentas para que as pessoas possam ter acesso
-à conteúdos educacionais de qualidade.
-
-# A meta é tornar a plataforma 100% descentralizada, para que nunca tenha seu conteúdo perdido ou tirado do ar.
