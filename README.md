@@ -20,7 +20,12 @@ voltada para Educadores, pais e alunos, para estimular e dar ferramentas para qu
 
 # A meta é tornar a plataforma 100% descentralizada, para que nunca tenha seu conteúdo perdido ou tirado do ar.
 
+## Abaixo uma montagem de como deveria ser a plataforma
+
 ![alt text](https://github.com/JuanCarvalho/FreeEducation/blob/master/MaterialParaDivulgacao/PNGs/exemplos_freeeducation.png)
+![alt text](https://github.com/JuanCarvalho/FreeEducation/blob/master/MaterialParaDivulgacao/PNGs/exemplos_criação_questao.png)
+![alt text](https://github.com/JuanCarvalho/FreeEducation/blob/master/MaterialParaDivulgacao/PNGs/criando_provas.svg.png)
+![alt text](https://github.com/JuanCarvalho/FreeEducation/blob/master/MaterialParaDivulgacao/PNGs/criando_aula.png)
 
 # Free and Decentralized Educational Platform
 ### Free educational platform for educators, parents and students.
