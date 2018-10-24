@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+*.sqlite3
+*__pycache__/
+*migrations/
+.gitignore
